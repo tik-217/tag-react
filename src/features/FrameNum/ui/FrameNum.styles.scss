@@ -1,0 +1,9 @@
+.frame-num {
+  background: #745;
+  box-shadow: rgb(119 68 85) 0px 50px 100px -20px,
+    rgb(119 68 85) 0px 30px 60px -30px;
+  padding: 10px;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
